@@ -1,3 +1,5 @@
+[![Built with askThili](https://msrit.ask.thili.ai/api/v1/public/projects/c9u9d7qm8t/badge.svg)](https://msrit.ask.thili.ai/b/c9u9d7qm8t)
+
 # Game Dialogue Assistant
 
 A command-line tool that game designers can use to prototype NPC dialogue. It trains an **n-gram language model** (built from scratch, with add-k smoothing and backoff) on a corpus of game dialogue. Each NPC gets their own model, so generated lines stay in that character's voice.
