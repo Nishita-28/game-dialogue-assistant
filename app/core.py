@@ -36,6 +36,7 @@ def detokenize(tokens):
     text = ""
     for t in tokens:
         text += t if t in ".,!?" or not text else " " + t
+    text = re.sub(r"i", "I", text)
     return re.sub(r"(^|[.!?] )([a-z])", lambda m: m.group(1) + m.group(2).upper(), text)
 
 
@@ -99,7 +100,7 @@ class DialogueModel:
         model = self.npcs.get(npc)
         own, o1 = model.candidates(context) if model else ({}, -1)
         alt, o2 = self.shared.candidates(context)
-        return own if own and o1 >= o2 else alt
+        return own if own and (o1 >= o2 or o1 >= 1) else alt
 
     def predict_next(self, npc, phrase, top=3):
         seen = self._next(npc, tokenize(phrase))
