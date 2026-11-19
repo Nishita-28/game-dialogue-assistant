@@ -1,0 +1,88 @@
+# Format: NPC: line
+BLACKSMITH: Welcome to my forge, traveler. The fire is hot and the steel is ready.
+BLACKSMITH: I can sharpen your blade for ten gold coins.
+BLACKSMITH: That sword has seen too many battles. Let me fix it for you.
+BLACKSMITH: The best steel comes from the northern mines.
+BLACKSMITH: Bring me iron ore and I will forge you a new sword.
+BLACKSMITH: My father was a blacksmith, and his father before him.
+BLACKSMITH: A good shield will save your life in the dark caves.
+BLACKSMITH: Do not waste my time unless you have gold to spend.
+BLACKSMITH: The fire is hot today. The steel will be strong.
+BLACKSMITH: I heard the king needs new armor for his guards.
+BLACKSMITH: Come back tomorrow and your armor will be ready.
+BLACKSMITH: That axe is too heavy for you, traveler.
+BLACKSMITH: I can forge you a new blade if you bring me iron ore.
+BLACKSMITH: The northern mines are full of goblins these days.
+BLACKSMITH: Welcome back, traveler. Your sword is ready.
+BLACKSMITH: Every blade I forge carries a piece of my soul.
+BLACKSMITH: Steel does not lie, and neither do I.
+BLACKSMITH: Ten gold coins and your blade will cut through stone.
+INNKEEPER: Welcome to the Sleeping Fox! Rooms are five gold a night.
+INNKEEPER: Would you like a warm meal and a cold drink, traveler?
+INNKEEPER: The stew is fresh today. My wife made it this morning.
+INNKEEPER: I hear many stories in this inn. Some of them are even true.
+INNKEEPER: A stranger came by last night asking about the old castle.
+INNKEEPER: Rest here tonight. The road is dangerous after dark.
+INNKEEPER: Welcome back, friend! Your room is ready.
+INNKEEPER: The bard will play tonight, so the inn will be full.
+INNKEEPER: Do not start a fight in my inn, or you will sleep outside.
+INNKEEPER: I heard wolves were seen near the old mill.
+INNKEEPER: Would you like to hear the latest news from the village?
+INNKEEPER: The guards drink here every night after their watch.
+INNKEEPER: A warm bed and a hot meal for only five gold.
+INNKEEPER: The stranger left a letter for you, friend.
+INNKEEPER: Rooms are full tonight, but you can sleep by the fire.
+INNKEEPER: The old castle is cursed, or so the stories say.
+INNKEEPER: Welcome, friend! Sit down and rest your feet.
+INNKEEPER: The stew is warm and the drinks are cold.
+GUARD: Halt! Who goes there?
+GUARD: The gates close at sunset. Do not be late.
+GUARD: Move along, citizen. Nothing to see here.
+GUARD: I used to be an adventurer, but now I guard this gate.
+GUARD: Keep your weapons sheathed inside the city walls.
+GUARD: There have been reports of bandits on the east road.
+GUARD: The captain wants to see you at the barracks.
+GUARD: Halt! You need a pass to enter the castle.
+GUARD: Stay out of trouble, traveler. We are watching you.
+GUARD: The king has ordered us to close the north gate.
+GUARD: Bandits were seen near the old mill last night.
+GUARD: Move along. The captain does not like strangers.
+GUARD: Keep your hands where I can see them.
+GUARD: The city is safe as long as we stand watch.
+GUARD: Halt! State your business in the city.
+GUARD: Report any strange activity to the captain.
+GUARD: The east road is closed until the bandits are caught.
+MERCHANT: Come, come! Look at my fine goods from distant lands!
+MERCHANT: This potion will heal any wound. Only twenty gold!
+MERCHANT: I have rare silks, spices, and potions for sale.
+MERCHANT: For you, my friend, a special price.
+MERCHANT: That price is too low! I have a family to feed.
+MERCHANT: I bought this ring from a sailor in the southern port.
+MERCHANT: Buy two potions and I will give you a third for free.
+MERCHANT: These spices come from the desert kingdoms.
+MERCHANT: Come back soon, my friend. New goods arrive every week.
+MERCHANT: This map will lead you to treasure, I promise!
+MERCHANT: Gold is gold, my friend. I do not ask where it comes from.
+MERCHANT: The roads are dangerous, so my prices are high.
+MERCHANT: Look at this fine sword! Only fifty gold for you.
+MERCHANT: A special price for a special friend.
+MERCHANT: I have potions for every wound and spells for every curse.
+MERCHANT: Come, my friend! Everything must go today!
+MERCHANT: The sailor swore this ring was magic.
+WIZARD: The stars speak of a great darkness rising in the north.
+WIZARD: Magic is not a toy, young one. It has a price.
+WIZARD: I have studied the ancient scrolls for three hundred years.
+WIZARD: Bring me the crystal from the cave and I will teach you a spell.
+WIZARD: The old castle hides a power older than the kingdom itself.
+WIZARD: Patience, young one. All will be revealed in time.
+WIZARD: The darkness grows stronger with every full moon.
+WIZARD: Do not touch that book! It is cursed.
+WIZARD: A true wizard knows that knowledge is the greatest power.
+WIZARD: The crystal glows when danger is near.
+WIZARD: I sense great power in you, young one.
+WIZARD: The ancient scrolls speak of a hero from a small village.
+WIZARD: Magic flows through all living things.
+WIZARD: The stars are restless tonight. Something is coming.
+WIZARD: Patience is the first lesson of magic.
+WIZARD: Seek the crystal in the cave beneath the old castle.
+WIZARD: Every spell has a price, young one. Remember that.
