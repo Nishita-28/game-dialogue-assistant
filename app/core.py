@@ -36,7 +36,7 @@ def detokenize(tokens):
     text = ""
     for t in tokens:
         text += t if t in ".,!?" or not text else " " + t
-    text = re.sub(r"i", "I", text)
+    text = re.sub(r"\bi\b", "I", text)
     return re.sub(r"(^|[.!?] )([a-z])", lambda m: m.group(1) + m.group(2).upper(), text)
 
 

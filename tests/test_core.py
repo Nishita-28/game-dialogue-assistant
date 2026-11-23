@@ -70,3 +70,7 @@ def test_character_consistency():
     words = set(tokenize(out)) - {".", ",", "!", "?"}
     wizard_vocab = m.npcs["wizard"].vocab
     assert words <= wizard_vocab
+
+
+def test_detokenize_capitalizes_i():
+    assert detokenize(["now", "i", "guard", "this", "gate", "."]) == "Now I guard this gate."
